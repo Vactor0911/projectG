@@ -1,9 +1,3 @@
----
-title: "진행된 작업을 설명할 제목"
-assignees: costar011, Vactor0911, LimJaemin1205, L-Hits
-
----
-
 **개요**
 어떤 부분에서 작업이 이뤄졌는지 간단하게 설명해주세요.
 
