@@ -2,7 +2,7 @@
 
 - 프로젝트명 : 게임 정보
 - 개발 웹앱 명 : Project-G
-- 개발 환경 : Front - React , Back - Node.js , DB - 미정
+- 개발 환경 : Front - React , Back - Node.js , DB - MySQL
 - git : https://github.com/Vactor0911
 
 ## ToDo Main
